@@ -5,6 +5,7 @@ public class Class1 {
 	
 	public void method1() {
 		System.out.println("Hello world");
+		System.out.println("Updated code");
 	}
 
 }
